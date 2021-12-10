@@ -1,6 +1,6 @@
 ---
-title: "ModernApps Ninja New Course Template"
-linkTitle: "New Course Template"
+title: "Scotts Playground"
+linkTitle: "scottsplayground"
 weight: 20
 menu:
   main:
