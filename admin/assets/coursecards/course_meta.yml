@@ -1,0 +1,28 @@
+---
+## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
+### Hugo Template Metadata
+title: "Scotts Playground"
+date: "2021-12-10T18:41:21Z"
+draft: true
+# meta description
+description: "Testground for Scott"
+# course thumbnail
+image: "https://modernapps.ninja/scottsplayground_sp5292/admin/assets/images/scottsplayground_sp5292.jpg"
+# taxonomy
+tags: ["Tanzu Portfiolio"]
+# teacher
+teacher: "Ninja Admins"
+# duration
+duration: "0 Hours"
+# course fee
+fee: "Free!"
+# apply url
+apply_url: "https://modernapps.github.io/scottsplayground_sp5292"
+# type
+type: "course"
+### Extended Ninja Course Metadata
+content_id: sp5292
+course_short_title: scottsplayground
+course_navbar_title: scottsplayground
+course_repo_name: scottsplayground_sp5292
+---  
